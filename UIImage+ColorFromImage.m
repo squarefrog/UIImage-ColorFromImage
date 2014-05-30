@@ -1,9 +1,8 @@
 //
 //  UIImage+ColorFromImage.m
-//  NUIDemo
 //
 //  Created by Paul Williamson on 30/05/2014.
-//  Copyright (c) 2014 Tom Benner. All rights reserved.
+//  Copyright (c) 2014 Paul Williamson. All rights reserved.
 //
 
 #import "UIImage+ColorFromImage.h"
