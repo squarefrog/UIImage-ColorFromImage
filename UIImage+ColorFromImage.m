@@ -24,6 +24,8 @@
     CGFloat b = buffer[2] / 255.f;
     CGFloat a = buffer[3] / 255.f;
     
+    free(buffer);
+    
     return [UIColor colorWithRed:r green:g blue:b alpha:a];
 }
 
